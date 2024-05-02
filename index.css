@@ -1,0 +1,84 @@
+
+body{
+  background-color: aquamarine;
+}
+hr{
+  width: 700px;
+}
+h1{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+h2{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+li{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+ul {
+  text-align: center;
+  list-style-position: inside;
+  }
+
+p{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: medium;
+  margin-bottom: 1px;
+}
+input{
+  width: 250px;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 5px;
+
+}
+
+.username{
+  margin-left: 800px;
+  margin-bottom: 15px;
+}
+.password{
+  margin-left: 800px;
+  margin-bottom: 15px;
+}
+.login{
+  margin-left: 880px;
+}
+.title{
+  margin-left: 800px;
+  margin-bottom: 15px;
+}
+.review{
+  margin-left: 825px;
+  margin-bottom: 15px;
+}
+.date{
+  margin-left: 800px;
+  margin-bottom: 15px;
+}
+.reviewBtn{
+  margin-left: 880px;
+  margin-bottom: 15px;
+}
+
+button{
+  width: 100px;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 880px;
+}
+
+
+
+
+
